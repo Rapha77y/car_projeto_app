@@ -25,4 +25,4 @@ streamlit run app.py
 ## Aplicação publicada
 
 <!-- Adicione a URL do Render após o deploy -->
-URL: https://<APP_NAME>.onrender.com
+URL: https://car-projeto-app2-1.onrender.com/
